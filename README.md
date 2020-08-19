@@ -1,16 +1,10 @@
-# Amex-Codestreet-20
+# Australia-India ReHack
 
-Smart Business payment solution:
+CareFit
 
 Abstract:
-Integrating power of NLP and speech recognition for seamless and faster payments. Smart invemtory management system
-to automate stock management for SME's and faster automatic bulk payment service powered by AI.
+We are planning to build a food delivery platform for gym going and fitness conscious people who also have a regular busy corporate or business life and barely get time for cooking the food and maintaining the perfect diet required to keep up their desired level of fitness. We will make a dashboard for the gym goers where they can select their diet and select exactly how they want it to be cooked, and our private contractual kitchen or restaurant service will get it delivered when and where they want. In addition we'll have a proper gym guide too.
 
-Features:
-Payments made faster by Speech recognition.
-Automated process of notifying about payments recieved and orders placed for stock management and selling of products.
-Option for secure bulk payment just by a click or voice statement
-Fraud payment and malicious payment method alerts.
 
 TechStack:
-Python, Django, Google Cloud, Google Speech API.
+HTML,CSS,ReactJS,Typescript,Firebase, Google Cloud and Flutter.
